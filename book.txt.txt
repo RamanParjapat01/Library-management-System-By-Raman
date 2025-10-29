@@ -1,0 +1,15 @@
+Introduction to Algorithms
+Clean Code
+The Pragmatic Programmer
+Design Patterns
+Java: A Beginner's Guide
+Data Structures and Algorithms in Java
+Effective Java
+Head First Java
+Thinking in Java
+Cracking the Coding Interview
+System Design Interview
+Database System Concepts
+Operating System Concepts
+Computer Networks
+Artificial Intelligence: A Modern Approach
